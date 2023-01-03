@@ -1,0 +1,2 @@
+# GraphQLCodeGenerator
+template
